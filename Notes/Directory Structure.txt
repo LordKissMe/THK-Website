@@ -1,0 +1,4 @@
+---> Folder: Flask Web App (stores the application)
+	|
+	|
+	-----> Folder: Website (stores all of the code)
