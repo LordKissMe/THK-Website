@@ -1,4 +1,8 @@
----> Folder: Flask Web App (stores the application)
-	|
-	|
-	-----> Folder: Website (stores all of the code)
+Folder: Flask Web App (stores the application)
+	- File: main.py (runs the website) 
+	- Folder: website (stores all of the code)
+----
+Inside (website)
+Folder: static 
+Folder: templates
+	- File: __init__.py (makes "website" a python package)
