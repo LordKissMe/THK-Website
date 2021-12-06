@@ -6,3 +6,6 @@ Inside (website)
 Folder: static 
 Folder: templates
 	- File: __init__.py (makes "website" a python package)
+	- File: auth.py     (handles authentication)
+	- File: models.py   (stores database models)
+	- File: views.py (stores main views / url endpoints)

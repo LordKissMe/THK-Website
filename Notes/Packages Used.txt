@@ -1,0 +1,3 @@
+* flask (lightweight python framework)
+* flask-login (logging in users)
+* flask-sqlalchemy (database wrapper for sql [create delete edit models])
